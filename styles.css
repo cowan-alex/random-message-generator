@@ -1,0 +1,36 @@
+body {
+  background-color: #A6D8DF;
+  text-align: center}
+
+h1 {
+  font-family: 'Covered By Your Grace', cursive;
+  display: flex;
+  font-size: 50px;
+  justify-content: center;
+  background-color: #EE5840;
+  border: 5px dotted;
+}
+
+h3 {
+  font-family: 'Shadows Into Light Two', cursive;
+  display: flex;
+  font-size: 30px;
+  justify-content: center;
+}
+
+button {
+  font-family: 'Shadows Into Light Two', cursive;
+  background-color: #FFC038;
+  font-size: 20px;
+  border: 2px solid;
+  text-align: center;
+  box-shadow: 3px 3px;
+  margin-bottom: 30px;
+}
+
+div {
+  font-family: 'Shadows Into Light Two', cursive;
+  font-size: 20px;
+}
+@media screen and (max-width: 900px) {
+}
